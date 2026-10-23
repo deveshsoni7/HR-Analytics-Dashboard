@@ -10,7 +10,7 @@ This project showcases an interactive **Power BI Dashboard** designed to analyze
 ## 🚀 Features
 
 * 📈 Interactive dashboards with real-time filtering
-* 📊 Visual representation of key performance indicators (KPIs)
+* 📊 Visual representation of key performance indicators (KPI)
 * 🔍 Drill-down analysis for deeper insights
 * 📅 Time-based trend analysis
 * 📌 User-friendly and visually appealing layout
